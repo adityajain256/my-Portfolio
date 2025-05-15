@@ -1,1 +1,27 @@
 @import "tailwindcss";
+
+.bgChange{
+    background: rgb(199, 242, 108);
+    color: black;
+    padding-left: 3rem;
+    padding-right: 3rem;
+    border-radius: 6px;
+    transition-duration: .8s;
+}
+
+.bgChange:hover{
+    background-color: chartreuse;
+    font-size: larger;
+
+}
+
+.hide{
+    /* display: none; */
+    opacity: 0;
+}
+
+/* .contect:hover{
+    .hide{
+        display: block;
+    }
+} */
