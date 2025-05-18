@@ -1,4 +1,4 @@
-import './App.css';
+import '/Users/adityajain/my/my-Portfolio/src/App.css';
 import image from '/Users/adityajain/my/Clone/src/assets/myPic.jpg'
 
 function Front(){

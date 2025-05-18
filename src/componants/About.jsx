@@ -1,4 +1,4 @@
-import "./App.css";
+import "/Users/adityajain/my/my-Portfolio/src/App.css";
 
 function About() {
   return (
@@ -11,18 +11,18 @@ function About() {
         <div className="flex flex-col justify-center items-center w-2/3  px-20">
           <h4 className="text-2xl">
             Hi, I’m Aditya Jain, a passionate and dedicated web developer with a
-            strong foundation in HTML, CSS, JavaScript, and React. I enjoy
+            strong foundation in HTML, CSS,TailwindCss,  JavaScript and React.<br></br> I enjoy
             turning ideas into interactive and user-friendly digital
             experiences. With a focus on clean code, responsive design, and
             continuous learning, I aim to build impactful web applications that
-            solve real-world problems. Currently pursuing my BTech in CSE with a
+            solve real-world problems. <br /> Currently pursuing my BTech in CSE with a
             specialization in AI/ML, I’m always exploring new technologies and
             improving my skills. Whether it's front-end development or
             full-stack projects, I'm excited to collaborate, learn, and grow in
-            the tech world. Let’s build something amazing together!
+            the tech world. <br /> Let’s build something amazing together!
           </h4>
           <button className="border-2 bg-red-500 px-2 py-1 mt-10 rounded ">
-            More
+            More...
           </button>
         </div>
         <div className="flex flex-col justify-center items-center w-1/2 ">

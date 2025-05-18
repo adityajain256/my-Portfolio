@@ -1,4 +1,4 @@
-import './App.css'
+import '/Users/adityajain/my/my-Portfolio/src/App.css'
 import logo from '/Users/adityajain/my/Clone/src/assets/myLogo.png'
 
 export default function Footer1() {

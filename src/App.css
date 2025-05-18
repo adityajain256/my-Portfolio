@@ -17,7 +17,7 @@
 
 .hide{
     /* display: none; */
-    opacity: 0;
+    display: none;
 }
 
 /* .contect:hover{
@@ -25,3 +25,4 @@
         display: block;
     }
 } */
+
