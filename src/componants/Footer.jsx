@@ -1,5 +1,5 @@
-import '/Users/adityajain/my/my-Portfolio/src/App.css'
-import logo from '/Users/adityajain/my/Clone/src/assets/myLogo.png'
+import '../App.css'
+import logo from '../assets/myLogo.png'
 
 export default function Footer1() {
   return (

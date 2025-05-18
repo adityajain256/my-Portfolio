@@ -1,9 +1,9 @@
 import React from "react";
-import "/Users/adityajain/my/my-Portfolio/src/App.css";
-import iconHtml from "/Users/adityajain/my/my-Portfolio/src/assets/html5.svg";
-import iconCss from "/Users/adityajain/my/my-Portfolio/src/assets/css.svg";
-import iconJs from "/Users/adityajain/my/my-Portfolio/src/assets/javascript.svg";
-import iconReact from "/Users/adityajain/my/my-Portfolio/src/assets/react.svg";
+import "../App.css";
+import iconHtml from "../assets/html5.svg";
+import iconCss from "../assets/css.svg";
+import iconJs from "../assets/javascript.svg";
+import iconReact from "../assets/react.svg";
 
 const Skills = () => {
   const skil = {

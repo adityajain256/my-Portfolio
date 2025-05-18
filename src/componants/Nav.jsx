@@ -1,4 +1,4 @@
-import "/Users/adityajain/my/my-Portfolio/src/App.css";
+import "../App.css";
 import { useState } from "react";
 
 

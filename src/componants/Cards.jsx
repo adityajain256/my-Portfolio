@@ -1,9 +1,9 @@
 
 
-import "/Users/adityajain/my/my-Portfolio/src/App.css";
-import stopimg from '/Users/adityajain/my/Clone/src/assets/stopwatch.png'
-import expense from '/Users/adityajain/my/Clone/src/assets/960x0.webp'
-import task from '/Users/adityajain/my/my-Portfolio/src/assets/taskManager.png'
+import "../App.css";
+import stopimg from '../assets/stopwatch.png'
+import expense from '../assets/960x0.webp'
+import task from '../assets/taskManager.png'
 
 const details = {
   PrName: ["Task-manager","Expanxe tracker", "Stop Watch",],
